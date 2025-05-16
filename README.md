@@ -2,7 +2,7 @@
 ### Overview
 The Bank Loan Analysis Dashboard provides a comprehensive overview of loan application trends, borrower profiles, fund distribution, and financial health indicators. Designed in Microsoft Excel, this dashboard offers valuable insights to help banks and financial institutions make informed decisions.
 
-### 🟩 Summary Dashboard**
+### 🟩 Summary Dashboard
 ![Bank Loan Summary](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/bank%20loan%20summary.jfif)
 **The Summary Dashboard offers a high-level overview of loan performance and KPIs, including:**
 -📌 Total Loan Applications: 38.6K
