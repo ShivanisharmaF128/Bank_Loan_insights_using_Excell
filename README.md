@@ -26,7 +26,7 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 -Loan Purpose (e.g., car, credit card, house, education, etc.)
 
 ### 🟪 Overview Dashboard
-![Bank Loan ]()
+![Bank Loan ](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/Bank%20Loan%20overview.jfif)
 **The Overview Dashboard enables deeper analysis through multiple perspectives, including:**
 -📅 Loan Applications by Month
 -🗺️ Loan Distribution by US States
