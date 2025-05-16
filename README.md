@@ -6,52 +6,52 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 ![Bank Loan Summary](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/bank%20loan%20summary.jfif)
 **The Summary Dashboard offers a high-level overview of loan performance and KPIs, including:**
 
--📌 Total Loan Applications: 38.6K
--💰 Total Fund Amount: $435.8M
--💵 Total Amount Received: $473.1M
--💹 Average Interest Rate: 12.05%
--📈 Average DTI (Debt-to-Income): 13.33%
+1.📌 Total Loan Applications: 38.6K2
+2.💰 Total Fund Amount: $435.8M
+3.💵 Total Amount Received: $473.1M
+4.💹 Average Interest Rate: 12.05%
+5.📈 Average DTI (Debt-to-Income): 13.33%
 
 **Key Visuals & Metrics:**
 
--✅ Good Loan Issued: 86.1%
--❌ Bad Loan Issued: 13.9%
--Bar graphs representing:
--Loan Application Status (Fully Paid, Charged Off, Current)
--Fund Amount Distribution
--Received Amounts
--Interest Rate Comparisons
--DTI Metrics across categories
+1.✅ Good Loan Issued: 86.1%
+2.❌ Bad Loan Issued: 13.9%
+3.Bar graphs representing:
+4.Loan Application Status (Fully Paid, Charged Off, Current)
+5.Fund Amount Distribution
+6.Received Amounts
+7.Interest Rate Comparisons
+8.DTI Metrics across categories
 
 **Interactive filters allow slicing data by:**
--Grade (A to G)
--Loan Purpose (e.g., car, credit card, house, education, etc.)
+1.Grade (A to G)
+2.Loan Purpose (e.g., car, credit card, house, education, etc.)
 
 ### 🟪 Overview Dashboard
 ![Bank Loan ](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/Bank%20Loan%20overview.jfif)
 **The Overview Dashboard enables deeper analysis through multiple perspectives, including:**
 
--📅 Loan Applications by Month
--🗺️ Loan Distribution by US States
--🕒 Loan Application Terms: 36 months vs. 60 months
--👷 Application by Employment Length
--🎯 Application by Purpose
--🏠 Application by Home Ownership: Rent vs. Mortgage
+1.📅 Loan Applications by Month
+2.🗺️ Loan Distribution by US States
+3.🕒 Loan Application Terms: 36 months vs. 60 months
+4.👷 Application by Employment Length
+5.🎯 Application by Purpose
+6.🏠 Application by Home Ownership: Rent vs. Mortgage
 
 **These visualizations help stakeholders understand application trends, customer profiles, and regional performance for more data-driven decisions.**
 
 ### 🛠 Tools Used
 
--Excel: PivotTables, Slicers, Charts, Conditional Formatting
--Interactive Visuals: Donut Charts, Map Charts, Bar Graphs
--Data Handling: Filterable metrics using dropdown selectors
+1.Excel: PivotTables, Slicers, Charts, Conditional Formatting
+2.Interactive Visuals: Donut Charts, Map Charts, Bar Graphs
+3.Data Handling: Filterable metrics using dropdown selectors
   
 ### Skills Demonstrated 🧩
 
--Financial and Risk Data Analysis
--Dashboard Design and Data Visualization
--Strategic Reporting for Business Decision-Making
--Data Segmentation by Demographics and Region
+1.Financial and Risk Data Analysis
+2.Dashboard Design and Data Visualization
+3.Strategic Reporting for Business Decision-Making
+4.Data Segmentation by Demographics and Region
 
 ### Project Structure 🗂️
 **KPI Dashboard:** Overview of core performance metrics and risk indicators
@@ -64,10 +64,10 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 
 ### Visual Representations
 
--Time-series charts for application trends
--US map for state-wise loan distribution
--Donut chart for loan term comparison
--Bar charts for purpose, employment length, and ownership type segmentation
+1.Time-series charts for application trends
+2.US map for state-wise loan distribution
+3.Donut chart for loan term comparison
+4.Bar charts for purpose, employment length, and ownership type segmentation
 
 ### How to Run 🚀
 1. Download the project files.
