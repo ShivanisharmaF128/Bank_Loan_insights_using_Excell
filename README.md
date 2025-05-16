@@ -1,10 +1,9 @@
 # 🏦 Bank Loan Analysis Dashboard
 ### Overview
 The Bank Loan Analysis Dashboard provides a comprehensive overview of loan application trends, borrower profiles, fund distribution, and financial health indicators. Designed in Microsoft Excel, this dashboard offers valuable insights to help banks and financial institutions make informed decisions.
-![blinkit sales analysis Dashboard](https://github.com/ShivanisharmaF128/blinkit-sales-and-customer-analysis-Excel-/blob/main/blinkit%20dashboard.jfif)
 
-### Features ✨
 ### 🟩 Summary Dashboard**
+![Bank Loan Summary](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/bank%20loan%20summary.jfif)
 **The Summary Dashboard offers a high-level overview of loan performance and KPIs, including:**
 -📌 Total Loan Applications: 38.6K
 -💰 Total Fund Amount: $435.8M
@@ -27,6 +26,7 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 -Loan Purpose (e.g., car, credit card, house, education, etc.)
 
 ### 🟪 Overview Dashboard
+![Bank Loan Overview]()
 **The Overview Dashboard enables deeper analysis through multiple perspectives, including:**
 -📅 Loan Applications by Month
 -🗺️ Loan Distribution by US States
