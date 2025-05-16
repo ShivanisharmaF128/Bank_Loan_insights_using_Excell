@@ -5,6 +5,7 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 ### 🟩 Summary Dashboard
 ![Bank Loan Summary](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/bank%20loan%20summary.jfif)
 **The Summary Dashboard offers a high-level overview of loan performance and KPIs, including:**
+
 -📌 Total Loan Applications: 38.6K
 -💰 Total Fund Amount: $435.8M
 -💵 Total Amount Received: $473.1M
@@ -12,6 +13,7 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 -📈 Average DTI (Debt-to-Income): 13.33%
 
 **Key Visuals & Metrics:**
+
 -✅ Good Loan Issued: 86.1%
 -❌ Bad Loan Issued: 13.9%
 -Bar graphs representing:
@@ -28,6 +30,7 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 ### 🟪 Overview Dashboard
 ![Bank Loan ](https://github.com/ShivanisharmaF128/Bank_Loan_insights_using_Excell/blob/main/Bank%20Loan%20overview.jfif)
 **The Overview Dashboard enables deeper analysis through multiple perspectives, including:**
+
 -📅 Loan Applications by Month
 -🗺️ Loan Distribution by US States
 -🕒 Loan Application Terms: 36 months vs. 60 months
@@ -38,11 +41,13 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 **These visualizations help stakeholders understand application trends, customer profiles, and regional performance for more data-driven decisions.**
 
 ### 🛠 Tools Used
+
 -Excel: PivotTables, Slicers, Charts, Conditional Formatting
 -Interactive Visuals: Donut Charts, Map Charts, Bar Graphs
 -Data Handling: Filterable metrics using dropdown selectors
   
 ### Skills Demonstrated 🧩
+
 -Financial and Risk Data Analysis
 -Dashboard Design and Data Visualization
 -Strategic Reporting for Business Decision-Making
@@ -58,6 +63,7 @@ The Bank Loan Analysis Dashboard provides a comprehensive overview of loan appli
 **Overview Dashboard** (Loan Applications by Month, State, Term, Purpose, Home Ownership)
 
 ### Visual Representations
+
 -Time-series charts for application trends
 -US map for state-wise loan distribution
 -Donut chart for loan term comparison
